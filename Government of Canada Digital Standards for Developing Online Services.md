@@ -16,7 +16,9 @@ TBS: [Section 4.2 Client-centric service design and delivery](https://www.tbs-sc
 - Conduct user research
 - Conduct usability testing
 - Create user journey mapping
+- Create service mapping
 - Align key service metrics to user needs
+- Establish minimum viable product to eliminate scope drift
 - Have access to expertises in user experience
  
 **NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#wb-auto-5) for misaligned behaviours.
@@ -28,7 +30,7 @@ TBS: [Section 4.2 Client-centric service design and delivery](https://www.tbs-sc
 
 **Activities:**
 
-- Test prototype of service early with users to get immediate feedback
+- Test service prototype early with users to get immediate feedback
 - Test often when features are added
 - Align and embrace agile development methodology as a team
 - "Fail fast, fail often"
@@ -42,15 +44,19 @@ TBS: [Section 4.3 Open and strategic management of information](https://www.tbs-
 
 **Activities:**
 
-- Test prototype of service early with users to get immediate feedback
-- Test often when features are added
-- Align and embrace agile development methodology as a team
-- "Fail fast, fail often"
+- Collaborate and share ideas
+- Use and re-use open processes and data to improve service delivery
  
 **NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#wb-auto-7) for misaligned behaviours.
 
 ## [Use Open Standards and Solutions](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds4)
 > Leverage open standards and embrace leading practices, including the use of open source software where appropriate. Design for services and platforms that are seamless for Canadians to use no matter what device or channel they are using.
+
+**Activities:**
+
+- 
+ 
+**NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#wb-auto-8) for misaligned behaviours.
 
 ## [Address Security and Privacy Risks](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds5)
 > Take a balanced approach to managing risk by implementing appropriate privacy and security measures. Make security measures frictionless so that they do not place a burden on users.
