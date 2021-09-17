@@ -21,7 +21,7 @@ TBS: [Section 4.2 Client-centric service design and delivery](https://www.tbs-sc
 - Establish minimum viable product to eliminate scope drift
 - Have access to expertises in user experience
  
-**NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#wb-auto-5) for misaligned behaviours.
+**NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds1) for misaligned behaviours.
 
 ## [Iterate and Improve Frequently](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds2)
 > Develop services using agile, iterative and user-centred methods. Continuously improve in response to user needs. Try new things, start small and scale up.
@@ -35,7 +35,7 @@ TBS: [Section 4.2 Client-centric service design and delivery](https://www.tbs-sc
 - Align and embrace agile development methodology as a team
 - "Fail fast, fail often"
  
-**NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#wb-auto-6) for misaligned behaviours.
+**NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds2) for misaligned behaviours.
 
 ## [Work In The Open By Default](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds3)
 > Share evidence, research and decision making openly. Make all non-sensitive data, information, and new code developed in delivery of services open to the outside world for sharing and reuse under an open licence.
@@ -47,7 +47,7 @@ TBS: [Section 4.3 Open and strategic management of information](https://www.tbs-
 - Collaborate and share ideas
 - Use and re-use open processes and data to improve service delivery
  
-**NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#wb-auto-7) for misaligned behaviours.
+**NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds3) for misaligned behaviours.
 
 ## [Use Open Standards and Solutions](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds4)
 > Leverage open standards and embrace leading practices, including the use of open source software where appropriate. Design for services and platforms that are seamless for Canadians to use no matter what device or channel they are using.
@@ -56,7 +56,7 @@ TBS: [Section 4.3 Open and strategic management of information](https://www.tbs-
 
 - 
  
-**NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#wb-auto-8) for misaligned behaviours.
+**NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds4) for misaligned behaviours.
 
 ## [Address Security and Privacy Risks](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds5)
 > Take a balanced approach to managing risk by implementing appropriate privacy and security measures. Make security measures frictionless so that they do not place a burden on users.
