@@ -69,7 +69,12 @@ TBS: [Section 4.3 Open and strategic management of information](https://www.tbs-
 TBS: [Section 4.4.2.7 Cyber security and identity](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603#cla4.4.2.7)
 TBS: [Section 4.6 Monitoring and oversight](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603#cla4.6)
 
-- 
+**Activities:**
+
+- Evaluate and access security and privacy risks for services (personal information collection, protected documents, etc.)
+- Implement monitoring strategies for detecting security and privacy risks
+- Plan mitigation and response strategies when security and/or privacy has been breached (notifying affected users, outage, backups, etc.)
+- Consider service's quality, efficiency, and end-users impact when designing security and privacy controls
 
 **NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds5) for misaligned behaviours.
 
@@ -78,18 +83,55 @@ TBS: [Section 4.6 Monitoring and oversight](https://www.tbs-sct.gc.ca/pol/doc-en
 
 TBS: [Section 4.2 Client-centric service design and delivery](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603#cla4.2)
 
+**Activities:**
+
+- Consider accessibility throughout the service design process
+- Continually test and improve accessibility of the service
+- Research and test with users to ensure that the service meets accessibility
+- Promote accessibility awareness to the team
+
+**NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds6) for misaligned behaviours.
+
 ## [Empower Staff To Deliver Better Services](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds7)
 > Make sure that staff have access to the tools, training and technologies they need. Empower the team to make decisions throughout the design, build and operation of the service.
 
 TBS: [Section 4.5 https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603#cla4.5](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603#cla4.5)
+
+**Activities:**
+
+- Empower teams to make decisions about how best to deliver the service
+- Team management actively remove impediments that prevent the team from delivering the service
+- Foster an open and collaborative environment to empower team members
+- Team members have access to environments to experiment with new approaches, tooling, or solutions
+
+**NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds7) for misaligned behaviours.
 
 ## [Be Good Data Stewards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds8)
 > Collect data from users only once and reuse wherever possible. Ensure that data is collected and held in a secure way so that it can easily be reused by others to provide services.
 
 TBS: [Section 4.4.2.7 Cyber security and identity](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603#cla4.4.2.7)
 
+**Activities:**
+
+- 
+
+**NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds8) for misaligned behaviours.
+
 ## [Design Ethical Services](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds9)
 > Make sure that everyone receives fair treatment. Comply with ethical guidelines in the design and use of systems which automate decision making (such as the use of artiﬁcial intelligence).
 
+**Activities:**
+
+- 
+
+**NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds9) for misaligned behaviours.
+
 ## [Collaborate Widely](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds10)
+
 > Create multidisciplinary teams with the range of skills needed to deliver a common goal. Share and collaborate in the open. Identify and create partnerships which help deliver value to users.
+
+**Activities:**
+
+- 
+
+**NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds10) for misaligned behaviours.
