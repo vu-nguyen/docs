@@ -20,7 +20,7 @@ TBS: [Section 4.2 Client-centric service design and delivery](https://www.tbs-sc
 - Align key service metrics to user needs
 - Establish minimum viable product to eliminate scope drift
 - Have access to expertises in user experience
- 
+
 **NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#wb-auto-5) for misaligned behaviours.
 
 ## [Iterate and Improve Frequently](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds2)
@@ -34,7 +34,7 @@ TBS: [Section 4.2 Client-centric service design and delivery](https://www.tbs-sc
 - Test often when features are added
 - Align and embrace agile development methodology as a team
 - "Fail fast, fail often"
- 
+
 **NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#wb-auto-6) for misaligned behaviours.
 
 ## [Work In The Open By Default](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds3)
@@ -46,7 +46,7 @@ TBS: [Section 4.3 Open and strategic management of information](https://www.tbs-
 
 - Collaborate and share ideas
 - Use and re-use open processes and data to improve service delivery
- 
+
 **NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#wb-auto-7) for misaligned behaviours.
 
 ## [Use Open Standards and Solutions](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds4)
@@ -54,8 +54,12 @@ TBS: [Section 4.3 Open and strategic management of information](https://www.tbs-
 
 **Activities:**
 
-- 
- 
+- Prioritize open solutions that use open standards over proprietary closed solutions
+- Contribute knowledge gained back to community
+- Create services that interoperable with other services
+- Consider open source solutions for new product, service or solution
+- Support clients on any device, anywhere and anytime
+
 **NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#wb-auto-8) for misaligned behaviours.
 
 ## [Address Security and Privacy Risks](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds5)
@@ -64,6 +68,10 @@ TBS: [Section 4.3 Open and strategic management of information](https://www.tbs-
 TBS: [Section 4.3 Open and strategic management of information](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603#cla4.3)
 TBS: [Section 4.4.2.7 Cyber security and identity](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603#cla4.4.2.7)
 TBS: [Section 4.6 Monitoring and oversight](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603#cla4.6)
+
+- 
+
+**NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds5) for misaligned behaviours.
 
 ## [Build In Accessibility From The Start](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds6)
 > Services should meet or exceed accessibility standards. Users with distinct needs should be engaged from the outset to ensure what is delivered will work for everyone.
