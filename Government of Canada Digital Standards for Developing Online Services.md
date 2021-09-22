@@ -113,7 +113,13 @@ TBS: [Section 4.4.2.7 Cyber security and identity](https://www.tbs-sct.gc.ca/pol
 
 **Activities:**
 
-- 
+- Collect only data needed to support the service
+- Reuse existing data wherever possible before collecting new data
+- Remove barriers to data sharing and release
+- Allow users to correct their personal information
+- Have define roles, responsibilities and accountabilities for data and information management and use
+- Have processes in place to ensure proper management of information and data before they are collected, used, disclosed, retained, disposed of, or declassified
+- Have processes in place for determining the classification of data and information
 
 **NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds8) for misaligned behaviours.
 
@@ -122,7 +128,11 @@ TBS: [Section 4.4.2.7 Cyber security and identity](https://www.tbs-sct.gc.ca/pol
 
 **Activities:**
 
-- 
+- Seek out indicators of bias and ensures that our services are not reinforcing unintended biases
+- Seek out evidence of unintended consequences to the user in service  design and delivery and works to mitigate these consequences for the  user
+- Design services that address cultural, linguistic, geographical,  accessibility, technological, socioeconomic, or other access barriers to uptake
+- Consider the impacts of decisions on the users and reduces negative outcomes, when encountered
+- Use data in a manner consistent with the purpose of its collection
 
 **NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds9) for misaligned behaviours.
 
@@ -132,6 +142,8 @@ TBS: [Section 4.4.2.7 Cyber security and identity](https://www.tbs-sct.gc.ca/pol
 
 **Activities:**
 
-- 
+- Have daily stand-up for team members to voice concerns and ask for help
+- Track and share work progress using agile development process
+- Collaborates with other teams in or outside of our organization,  including other levels of government, other governments, the public, or  private sector organizations, who have done or are doing similar work
 
 **NOTE:** See [guidance](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html#ds10) for misaligned behaviours.

@@ -14,15 +14,15 @@ Current inland refugee claims are done through claimants filling out multiple fo
 
 List of forms currently needed are:
 
-- Generic Application Form for Canada (IMM 0008)
-- Additional Dependents / Declaration (IMM 0008DEP), if you have more dependents than can be listed on the Generic Application Form for Canada
-- Schedule A – Background / Declaration (IMM 5669)
-- Schedule 12 – Refugee Claimants Inside Canada (IMM 0008 – Schedule 12)
-- Document Checklist (IMM 5745)
-- Use of a Representative (IMM 5476), if applicable
-- Basis of Claim Form (IRB)
+- Document Checklist ([IMM 5745](https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/kits/forms/imm5745e.pdf))
+- Generic Application Form for Canada ([IMM 0008](https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/kits/forms/imm0008enu_2d.pdf))
+- Additional Dependents / Declaration ([IMM 0008DEP](https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/kits/forms/imm0008depenu.pdf)), if you have more dependents than can be listed on the Generic Application Form for Canada
+- Schedule A – Background / Declaration ([IMM 5669](https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/kits/forms/imm5669e.pdf))
+- Schedule 12 – Refugee Claimants Inside Canada ([IMM 0008 – Schedule 12](https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/kits/forms/imm0008_12e.pdf))
+- Use of a Representative ([IMM 5476](https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/kits/forms/imm5476e.pdf)), if applicable
+- [Appointment of a Designated Representative for Accompanied Minors](https://irb-cisr.gc.ca/en/forms/Pages/designated-representative-minors.aspx) (IRB)
 
 ### Requirements
 
-> Digitalize and streamline the refugee claim process to allow claimants or their authorized representatives to submit claims online and/or submit subsequent information after claim is made.
+> To digitalize and streamline the refugee claim process to allow claimants or their authorized representatives to submit claims online and/or submit subsequent information after claim is made.
 
