@@ -8,11 +8,11 @@ Immigration, Refugees, and Citizenship Canada (IRCC) and the Canada Border Servi
 
 The work is divided into CBSA processing refugee claims made the Port of Entry (PoE) and IRCC and CBSA processing inland refugee claims.
 
-### Problems
+### Process Barriers
 
-Current inland refugee claims are done through claimants filling out multiple forms and sending it to IRCC for processing. This is labour intensive and time consuming. The form itself is long and confusing as to what information is required.
+Current inland refugee claims are done through claimants filling out multiple forms and sending it to IRCC and CBSA (with IRB playing some role) for processing. This process is labor intensive and time consuming. The form itself is long and confusing as to what information is required.
 
-List of forms currently needed are:
+Current list of forms used are:
 
 - Document Checklist ([IMM 5745](https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/kits/forms/imm5745e.pdf))
 - Generic Application Form for Canada ([IMM 0008](https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/kits/forms/imm0008enu_2d.pdf))
@@ -26,3 +26,12 @@ List of forms currently needed are:
 
 > To digitalize and streamline the refugee claim process to allow claimants or their authorized representatives to submit claims online and/or submit subsequent information after claim is made.
 
+We want to design a client-friendly, streamline, digital process that cuts down on processing time and connect the different organizations involved. 
+
+- Sprint planning
+- Design reviews
+- Personas
+- Acceptance criteria sessions
+- Standups
+- Functional reviews
+- Retrospectives
