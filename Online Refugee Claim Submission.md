@@ -57,9 +57,8 @@ The user journey for submitting refugee claim is as follow.
    - Use of a representative (IMM 5476), if applicable
    - Basis of claim (IRB)
 4. Send application package to [IRCC.RefugeeClaim-Demandedasile.IRCC@cic.gc.ca](mailto:IRCC.RefugeeClaim-Demandedasile.IRCC@cic.gc.ca) through [epost Connect](https://www.canadapost.ca/cpc/en/business/postal-services/digital-mail/epost-connect.page) for secure delivery
-5. Wait for **acknowledgement of claim letter** along with instructions to complete a medical examination and schedule an interview.
-   - 
-6. Following the interview, the following documents are issued
+5. Wait for **acknowledgement of claim letter** along with instructions to complete a medical examination and schedule an interview
+6. Following the interview, the user will be provided with various documents, such as
    - Notice of Seizure
    - Acknowledgement of Conditions
    - An A44 Report, outlining inadmissibilities
@@ -70,4 +69,16 @@ The user journey for submitting refugee claim is as follow.
 7. Wait for IRB's decision
 
 This whole process can take months.
+
+### Administrative User Journey
+
+The user journey for the administrative side is as follow.
+
+1. IRCC receives the refugee claim application
+2. Review the submitted forms for completeness
+3. Schedule an interview
+4. Enter the information provided into GCMS
+5. Package information for security screening and refugee 
+
+
 
