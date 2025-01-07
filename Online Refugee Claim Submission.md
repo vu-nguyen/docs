@@ -4,7 +4,7 @@
 
 ### Background
 
-Immigration, Refugees, and Citizenship Canada (IRCC) and the Canada Border Services Agency (CBSA) both process refugee claims and make eligibility determination. Immigration and Refugee Board (IRB) also makes a determination on the basis of claim.
+Immigration, Refugees, and Citizenship Canada (IRCC) and the Canada Border Services Agency (CBSA) both process refugee claims and make eligibility determination. Immigration and Refugee Board (IRB) also makes a determination on the basis of claim (BoC).
 
 The work is divided into CBSA processing refugee claims made the Port of Entry (PoE) and IRCC and CBSA processing inland refugee claims.
 
@@ -79,6 +79,3 @@ The user journey for the administrative side is as follow.
 3. Schedule an interview
 4. Enter the information provided into GCMS
 5. Package information for security screening and refugee 
-
-
-
