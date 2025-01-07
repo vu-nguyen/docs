@@ -1,14 +1,12 @@
-# Asylum Interoperability Project
+# Online Refugee Claim Submission
 
-## Online Refugee Claim Submission
-
-### Background
+## Background
 
 Immigration, Refugees, and Citizenship Canada (IRCC) and the Canada Border Services Agency (CBSA) both process refugee claims and make eligibility determination. Immigration and Refugee Board (IRB) also makes a determination on the basis of claim.
 
 The work is divided into CBSA processing refugee claims made the Port of Entry (PoE) and IRCC and CBSA processing inland refugee claims.
 
-### Barriers
+## Barriers
 
 Current inland refugee claims are done through claimants filling out multiple forms and sending it to IRCC and CBSA (with IRB playing some role) for processing. This process is labor intensive and time consuming. The form itself is long and confusing as to what information is required.
 
@@ -22,13 +20,13 @@ Current list of forms used are:
 - Use of a Representative ([IMM 5476](https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/kits/forms/imm5476e.pdf)), if applicable
 - [Basis of Claim](https://www.irb-cisr.gc.ca/en/pages/index.aspx) (IRB)
 
-### Business Requirements
+## Business Requirements
 
 > To digitalize and streamline the refugee claim process to allow claimants or their authorized representatives to submit claims online and/or submit subsequent information after claim is made.
 
 We want to design a client-friendly, streamline, accessible digital process that helps to cut down on processing time. The digitalization of the process will also help in reducing the administrative burden on IRCC and CBSA staff.
 
-### User Journey
+## User Journey
 
 The user journey for submitting refugee claim is as follow. 
 
@@ -70,7 +68,7 @@ The user journey for submitting refugee claim is as follow.
 
 This whole process can take months.
 
-### Administrative User Journey
+## Administrative User Journey
 
 The user journey for the administrative side is as follow.
 
@@ -79,6 +77,3 @@ The user journey for the administrative side is as follow.
 3. Schedule an interview
 4. Enter the information provided into GCMS
 5. Package information for security screening and refugee 
-
-
-
